@@ -3,10 +3,10 @@ We designed a light bulb that turns on and off automatically according to extern
 
 The logic utilized in the device is given below,
 | **Natural Light Condition** | **Human Presence** | **Switching State of Bulb (Output)** |
-|:---------------------------:|:------------------:|:------------------------------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| In Dark                     | Yes                | ON                                   |      |      |      |      |      |      |      |
-| In Dark                     | No                 | OFF                                  |      |      |      |      |      |      |      |
-| In Light                    | Yes                | OFF                                  |      |      |      |      |      |      |      |
-| In light                    | No                 | OFF                                  |      |      |      |      |      |      |      |
+|:---------------------------:|:------------------:|:------------------------------------:|
+| In Dark                     | Yes                | ON                                   | 
+| In Dark                     | No                 | OFF                                  |    
+| In Light                    | Yes                | OFF                                  |    
+| In light                    | No                 | OFF                                  |     
 
 ![Final Block Diagram](https://github.com/randika-perera/Self-Switching-Lightbulb/assets/129817316/fe0bddc7-5648-4f6c-a56d-4760cea17433)
