@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=P? NewDesignator=LDR?
+Change Component Designator: OldDesignator=P? NewDesignator=PIR?
+Change Component Designator: OldDesignator=P? NewDesignator=Relay?
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetPIR?_1
+Added Pin To Net: NetName=NetLDR?_1 Pin=LDR?-1
+Added Pin To Net: NetName=NetLDR?_1 Pin=U?-1
+Added Net: Name=NetLDR?_1
+Added Member To Class: ClassName=Sheet1 Member=Component PIR? 61900311121
+Added Member To Class: ClassName=Sheet1 Member=Component Relay? 61900311121
+Added Member To Class: ClassName=Sheet1 Member=Component U? SN74HC00N
